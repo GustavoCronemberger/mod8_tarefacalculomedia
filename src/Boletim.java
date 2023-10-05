@@ -1,5 +1,5 @@
 public class Boletim {
-    public static void main (String aegs[]){
+    public static void main (String args[]){
         mediaFinal();
 
     }
